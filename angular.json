@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "biblioteca"
+    }
+  },
+  "defaultProject": "biblioteca",
+  "cli": {
+    "analytics": "05181f8a-374e-44db-a014-e9cc4fbac3c9"
+  }
 }
